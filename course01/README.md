@@ -1,5 +1,5 @@
 # course-backend
-第一章 基本環境與開發規範
+## 第一章 基本環境與開發規範
 首先，先挑選並安裝你的整合開發環境(IDE)，可以使用eclipse、IntelliJ或Visual Studio Code (VS Code)。
 VS Code的設定可參考: 
 [Getting Started with Java in VS Code](https://code.visualstudio.com/docs/java/java-tutorial)
@@ -11,3 +11,5 @@ VS Code的設定可參考:
 
 然後，產生一個空的spring boot專案。
 請參考 [Spring Quickstart Guide](https://spring.io/quickstart)
+
+作業: 產生一個空的spring boot專案，並確認可以執行。
